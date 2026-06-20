@@ -1,10 +1,8 @@
-# NR110E_buck_converter
+# NR111E_buck_converter
 
 ## Description
 
-This is a [LibrePCB](https://librepcb.org) project!
-Just edit this file to add a description about it.
+This is a 7V-31V in, 5V 4A out buck converter module based on the NR111E IC from SanKen.
 
-## License
 
-No license set.
+![Schematic](https://github.com/bosdos12/NR111_5v_buck_converter/blob/main/images/schematic.png?raw=true)
